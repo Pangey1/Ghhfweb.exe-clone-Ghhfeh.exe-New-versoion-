@@ -1,0 +1,10 @@
+﻿  Ghhfweb.cpp
+D:\Ghhfweb\Ghhfweb\Ghhfweb.cpp(257,43): warning C4129: "M": нераспознанная escape-последовательность символов
+D:\Ghhfweb\Ghhfweb\Ghhfweb.cpp(257,43): warning C4129: "W": нераспознанная escape-последовательность символов
+D:\Ghhfweb\Ghhfweb\Ghhfweb.cpp(257,43): warning C4129: "C": нераспознанная escape-последовательность символов
+  Создание кода
+  1 of 83 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Ghhfweb.vcxproj -> D:\Ghhfweb\Release\Ghhfweb.exe
